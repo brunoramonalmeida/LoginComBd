@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoginComBd</string>
+    <string name="campo_login">Usuário</string>
+    <string name="campo_senha">Senha</string>
+</resources>
